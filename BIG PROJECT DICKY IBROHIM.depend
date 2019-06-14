@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465354851 source:c:\big project- bismillah\big project dicky ibrohim\function.c
+	"header.h"
+
+1465340842 c:\big project- bismillah\big project dicky ibrohim\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1465351504 source:c:\big project- bismillah\big project dicky ibrohim\main.c
+	"header.h"
+
